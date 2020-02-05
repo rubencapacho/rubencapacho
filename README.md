@@ -1,2 +1,2 @@
 # rubencapacho
-ganas de seguir adelante
+Bienvenido al repositorio de Ruben Capacho
